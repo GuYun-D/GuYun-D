@@ -5,7 +5,7 @@
 ## My Skills
 <img src="https://cn.vuejs.org/images/logo.svg" height=200>
 <img src="https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a29c72a72b58e25bc315d60d782?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" height=200>
-<img src="https://bkimg.cdn.bcebos.com/pic/a8014c086e061d950a7bea2564b81dd162d9f2d35cd3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" height=200>
+<img src="https://s3.bmp.ovh/imgs/2022/06/21/2a3f7f8f9a7bfcac.png" height=200>
 
 <hr />
   
