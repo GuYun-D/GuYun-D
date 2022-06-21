@@ -1,5 +1,3 @@
-<div align=center>
-
 # 孤云 一个喜欢古风的前端coder
 
 ## My Skills
