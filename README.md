@@ -12,6 +12,33 @@
  
 </div>
 
+### 因为热爱，所以坚持;因为坚持，所以更加热爱
+
+<p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+
+</p>
+
+<p>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
+![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
+
+</p>
+
+<p> 
+ 
+![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+
+</p>
+
 <hr />
   
 <img src="https://img0.baidu.com/it/u=4129095838,527047642&fm=253&fmt=auto&app=138&f=JPEG?w=1078&h=459" width=100%>
