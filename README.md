@@ -2,7 +2,7 @@
 
 ## My Skills
 
-<div align=left>
+<div align=center>
 
 <img src="https://cn.vuejs.org/images/logo.svg" height=50>
 <img src="https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a29c72a72b58e25bc315d60d782?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" height=50>
