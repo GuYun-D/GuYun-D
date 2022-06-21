@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center style="writing-mode: tb">
 
 孤云 一个喜欢古风的男人
   
