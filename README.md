@@ -1,4 +1,4 @@
-# 孤云 一个喜欢古风的前端coder
+# 孤云 古风前端coder
 
 ## My Skills
 
