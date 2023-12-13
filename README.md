@@ -13,7 +13,8 @@
 </div>
 
 <div align=center>
-<p>因为热爱，所以坚持;因为坚持，所以更加热爱</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <p></p>
 
