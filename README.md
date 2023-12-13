@@ -4,7 +4,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYun-D&count_private=true)
 <div align=center>
 
 <img src="https://v2.cn.vuejs.org/images/logo.svg" height=50>
