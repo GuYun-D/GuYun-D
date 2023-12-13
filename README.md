@@ -1,6 +1,8 @@
-# 风缘 古风前端coder
+# 风缘
 
 ## My Skills
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <div align=center>
 
@@ -14,7 +16,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 <p></p>
 
