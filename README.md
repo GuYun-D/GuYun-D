@@ -13,8 +13,6 @@
 
 <div align=center>
  
-// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYun-D&count_private=true&theme=radical)
- 
 </div>
 
 <div align=center>
